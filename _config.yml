@@ -1,0 +1,28 @@
+name: rm-rf
+favicon: null
+layout_spectrum: 0.9195740062277764
+typography_spectrum: 0.4507410111837089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.43417502474039793
+  lightness: 0.7795729767531157
+  saturation: 0.23168162140063941
+  rhythmicContrast: 0.5999198695644736
+purpose: []
