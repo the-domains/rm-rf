@@ -1,6 +1,6 @@
 name: rm-rf
 favicon: null
-layout_spectrum: 0.9195740062277764
+layout_spectrum: 0
 typography_spectrum: 0.4507410111837089
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.43417502474039793
+  brandStrength: 0
   lightness: 0.7795729767531157
-  saturation: 0.23168162140063941
-  rhythmicContrast: 0.5999198695644736
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
